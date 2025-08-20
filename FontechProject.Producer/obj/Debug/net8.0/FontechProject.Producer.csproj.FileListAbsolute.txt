@@ -1,0 +1,12 @@
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\bin\Debug\net8.0\FontechProject.Producer.deps.json
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\bin\Debug\net8.0\FontechProject.Producer.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\bin\Debug\net8.0\FontechProject.Producer.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.csproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\refint\FontechProject.Producer.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\FontechProject.Producer.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Producer\obj\Debug\net8.0\ref\FontechProject.Producer.dll

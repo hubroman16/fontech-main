@@ -1,0 +1,17 @@
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\bin\Debug\net8.0\FontechProject.DAL.deps.json
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\bin\Debug\net8.0\FontechProject.DAL.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\bin\Debug\net8.0\FontechProject.DAL.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\bin\Debug\net8.0\FontechProject.Domain.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\bin\Debug\net8.0\FontechProject.Domain.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\refint\FontechProject.DAL.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\ref\FontechProject.DAL.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechP.61DD22E6.Up2Date
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\bin\Debug\net8.0\FontechProject.DAL.runtimeconfig.json
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.DAL\obj\Debug\net8.0\FontechProject.DAL.genruntimeconfig.cache

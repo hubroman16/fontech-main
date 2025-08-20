@@ -1,0 +1,12 @@
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\bin\Debug\net8.0\FontechProject.Domain.deps.json
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\bin\Debug\net8.0\FontechProject.Domain.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\bin\Debug\net8.0\FontechProject.Domain.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.csproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\refint\FontechProject.Domain.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\FontechProject.Domain.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Domain\obj\Debug\net8.0\ref\FontechProject.Domain.dll

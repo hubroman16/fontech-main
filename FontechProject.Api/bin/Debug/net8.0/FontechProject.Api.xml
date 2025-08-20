@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FontechProject.Api</name>
+    </assembly>
+    <members>
+        <member name="M:FontechProject.Api.Controllers.AuthController.Register(FontechProject.Domain.Dto.User.RegisterUserDto)">
+            <summary>
+            Регистрация пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.AuthController.Login(FontechProject.Domain.Dto.User.LoginUserDto)">
+            <summary>
+            Авторизация пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.ReportController.Delete(System.Int64)">
+            <summary>
+            Удаление отчёта с заданными параметрами
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                DELETE    
+                {
+                   "id" : "1",
+                }
+            
+            </remarks>
+            <response code="200">Если отчёт удалён</response>
+            <response code="400">Если отчёт не был удалён</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.ReportController.Create(FontechProject.Domain.Dto.Report.CreateReportDto)">
+            <summary>
+            Создание отчёта с заданными параметрами
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Request for create report:
+            
+                POST    
+                {
+                   "name" : "Report #1",
+                   "description" : "Test report",
+                   "userId" : 1
+                 }
+            
+            </remarks>
+            <response code="200">Если отчёт создался</response>
+            <response code="400">Если отчёт не был создан</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.ReportController.Update(FontechProject.Domain.Dto.Report.UpdateReportDto)">
+            <summary>
+            Обновление отчёта с заданными параметрами
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                PUT   
+                {
+                   "userId" : 1,
+                   "name" : "Report #1",
+                   "description" : "Test report"
+                 }
+            
+            </remarks>
+            <response code="200">Если отчёт обновлён</response>
+            <response code="400">Если отчёт не обновлён</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.RoleController.Create(FontechProject.Domain.Dto.Role.CreateRoleDto)">
+            <summary>
+            Создание роли с заданными параметрами
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                POST    
+                {
+                   "name" : "User",
+                 }
+            
+            </remarks>
+            <response code="200">Если роль создана</response>
+            <response code="400">Если роль не создана</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.RoleController.Delete(System.Int64)">
+            <summary>
+            Удаление роли с заданными параметрами
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                DELETE    
+                {
+                   "id" : "1",
+                }
+            
+            </remarks>
+            <response code="200">Если роль удалёна</response>
+            <response code="400">Если роль не был удалена</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.RoleController.Update(FontechProject.Domain.Dto.Role.RoleDto)">
+            <summary>
+            Обноление роли с указанием основных свойств 
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                PUT    
+                {
+                   "id" : 1,
+                   "name" : "Admin"
+                 }
+            
+            </remarks>
+            <response code="200">Если роль обновилась</response>
+            <response code="400">Если роль не обновилась</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.RoleController.AddRoleForUser(FontechProject.Domain.Dto.Role.UserRoleDto)">
+            <summary>
+            Добавление роли пользователю
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Request for add role for user:
+            
+                POST    
+                {
+                   "login" : "User #1",
+                   "roleName" : "Admin"
+                 }
+            
+            </remarks>
+            <response code="200">Если роль была добавлена</response>
+            <response code="400">Если роль не была добавлена</response>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.RoleController.DeleteRoleForUser(FontechProject.Domain.Dto.Role.DeleteUserRoleDto)">
+            <summary>
+            Удаление роли у пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FontechProject.Api.Controllers.RoleController.UpdateRoleForUser(FontechProject.Domain.Dto.Role.UpdateUserRoleDto)">
+            <summary>
+            Обноление роли у пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FontechProject.Api.Controllers.TokenController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FontechProject.Api.StartUp.AddAuthenticationAndAutorization(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Подключение аутентификации и авторизации
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:FontechProject.Api.StartUp.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Подключение Swagger
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

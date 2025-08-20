@@ -1,0 +1,15 @@
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\bin\Debug\net8.0\FontechProject.Consumer.deps.json
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\bin\Debug\net8.0\FontechProject.Consumer.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\bin\Debug\net8.0\FontechProject.Consumer.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\bin\Debug\net8.0\FontechProject.Domain.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\bin\Debug\net8.0\FontechProject.Domain.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.csproj.AssemblyReference.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechP.8F5D02B2.Up2Date
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\refint\FontechProject.Consumer.dll
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\FontechProject.Consumer.pdb
+C:\Users\Иван\RiderProjects\FontechProject\FontechProject.Consumer\obj\Debug\net8.0\ref\FontechProject.Consumer.dll
